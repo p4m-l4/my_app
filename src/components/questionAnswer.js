@@ -11,12 +11,10 @@ const QuestionAnswer = () => {
     return ( 
     
     <div>
-    <div>
     
-</div>
 <NavBar></NavBar>
 <div style={{ display: 'block', 
-                width: 900,
+                width: 1000,
                 height: 1500, 
                 paddingLeft: 100,
                 margin: 100}}>
