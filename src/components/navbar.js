@@ -7,9 +7,9 @@ function NavBar () {
         
         <Navbar bg="dark" variant="dark">
             <Container>
-                <Navbar.Brand href="#">Brand link</Navbar.Brand>
                 <Navbar.Brand href="/question-answer">Questionnaire</Navbar.Brand>
-                <Navbar.Brand href="/ruffle1">Ruffle</Navbar.Brand>
+                <Navbar.Brand href="/ruffle1">Ruffle 1</Navbar.Brand>
+                <Navbar.Brand href="/ruffle2">Ruffle 2</Navbar.Brand>
             <Navbar.Brand href="#home">
                 <img
                 alt=""
